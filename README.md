@@ -14,7 +14,7 @@ We can automate the script by using trigger to call the function every 5 or 10 m
 - Congrats !! Now the title of your video will update every 5 or 10 minutes, depending on what you chose.
 
 ## Inspiration
-I got the idea to write this script by Tom Scott. Don't forget to check the originl video:
+I got the idea to write this script from Tom Scott. Don't forget to check the originl video:
 ```
 https://www.youtube.com/watch?v=BxV14h0kFs0
 ```
